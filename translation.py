@@ -14,7 +14,7 @@ __ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ғᴏʀ ᴀ ᴄʜᴀɴɴᴇ
 """    
 
       HELP_TEXT = """
-<u>💡 𝐇𝐞𝐥𝐩</u> 
+<blockquote><u>💡 𝐇𝐞𝐥𝐩</u> 
 
 👉 <i>Add me as a Admin in your channel with edit permission</i>
 
@@ -24,14 +24,14 @@ __ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ғᴏʀ ᴀ ᴄʜᴀɴɴᴇ
 
 👉 <i>Forward your files in your channel and I will edit it</i>
 
-○ <i>My Source Code : /source</i>
+○ <i>My Source Code : /source</i></blockquote>
 
 """    
               
 
      
       ABOUT_TEXT = """
-📕 **𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
+<blockquote>📕 **𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
 
 __○ ᴍʏ ɴᴀᴍᴇ : [CapXbot](https://t.me/Avishkarpatil)__
 __○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ __
@@ -40,7 +40,7 @@ __○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ __
 __○ ᴠᴇʀsɪᴏɴ : 2.0.1__
 __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
  
-**[© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/Avishkarpatil)**
+**[© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/Rahatmx)**</blockquote>
 """
 
       MARKDOWN_TEXT = """
@@ -55,24 +55,24 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 🔸 <code>`Avishkar`</code>   
 
 👉 <b>Hyperlink text</b>
-🔹 <code>[hyperlink_text](https://avipatilweb.me)</code> 
+🔹 <code>[hyperlink_text](https://t.me/RM_Movie_Flix)</code> 
 
 〰〰〰〰〰〰〰〰〰〰
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/Rm_Movi">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
 """
 
 # Bot status display
 
       STATUS_DATA = """
-🔰 <u>𝐁𝐎𝐓 𝐒𝐓𝐀𝐓𝐔𝐒</u>
+<blockquote>🔰 <u>𝐁𝐎𝐓 𝐒𝐓𝐀𝐓𝐔𝐒</u>
 
 🖌️ <b>Current Caption :</b> 
 {}
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/Rm_Movi">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b></blockquote>
 """
 
 
@@ -81,7 +81,7 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 ○ <b> I Am Available Open Source on Github 
       Click Below Link And Deploy Me Now </b>
 
-○ <i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://github.com/avipatilpro/Caption-Bot">On Heroku</a></b>    
+○ <i>DEPLOY</i> : <b><a href="t.me/RahatMx">On Heroku Dm </a></b>    
 
-○ <i>SOURCE</i> : <b><a href="https://github.com/avipatilpro/Caption-Bot">Caption Bot</a></b>  
+○ <i>SOURCE</i> : <b><a href="t.me/RahatMx">Repo Caption Bot</a></b>  
 """
